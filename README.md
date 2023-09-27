@@ -1,5 +1,6 @@
 # 💫 About Me:
-Experienced Full Stack Web Developer having strong command on CSS and adept at building solo and collaborative projects.<br><br>👋 Hi, I’m @astik0398 from Patna (India)<br>👨‍💻 I'm a Full Stack Web Developer skilled in MERN stack<br>🤝🏻 I’m always open to work on collaborative projects<br>💼 I've more than 1200+ hours of coding experience<br>⚡ Fun fact : Coding Bugs were NOT named after an actual bug  
+Experienced Full Stack Web Developer having strong command on CSS and adept at building solo and collaborative projects.<br><br>👋 Hi, I’m @astik0398 from Patna (India)<br>👨‍💻 I'm a Full Stack Web Developer skilled in MERN stack<br>🤝🏻 I’m always open to work on collaborative projects<br>💼 I've more than 1200+ hours of coding experience<br>⚡ Fun fact : Coding Bugs were NOT named after an actual bug<br> My Portfolio: https://astik0398.github.io/
+
 
 
 ## 🌐 Socials:
